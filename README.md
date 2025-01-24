@@ -118,9 +118,7 @@ object Main extends IOApp.Simple {
   } yield ()
 }
 ```
-## 5. Documente en un repositorio de github (archivo README.md) y suba el código en el mismo repositorio. 
 
-## 6. Comparta el enlace del repositorio. 
 
 
 
