@@ -1,2 +1,7 @@
 # TallerGrupalB2S14
+--------------------
 ## INTEGRANTES: JOHN SARITAMA,CAMILO FIERRO, LUIS SARANGO
+
+
+
+
