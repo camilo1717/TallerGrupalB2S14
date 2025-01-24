@@ -2,7 +2,9 @@
 
 ## INTEGRANTES: 
 -John Saritama
+
 -Camilo Fierro
+
 -Luis Sarango
 
 
